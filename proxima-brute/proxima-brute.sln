@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34018.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "proxima-brute", "proxima-brute.vcxproj", "{75F7B4E7-5BBD-40C5-A909-CB03154A3E68}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75F7B4E7-5BBD-40C5-A909-CB03154A3E68}.Debug|x64.ActiveCfg = Debug|x64
+		{75F7B4E7-5BBD-40C5-A909-CB03154A3E68}.Debug|x64.Build.0 = Debug|x64
+		{75F7B4E7-5BBD-40C5-A909-CB03154A3E68}.Debug|x86.ActiveCfg = Debug|Win32
+		{75F7B4E7-5BBD-40C5-A909-CB03154A3E68}.Debug|x86.Build.0 = Debug|Win32
+		{75F7B4E7-5BBD-40C5-A909-CB03154A3E68}.Release|x64.ActiveCfg = Release|x64
+		{75F7B4E7-5BBD-40C5-A909-CB03154A3E68}.Release|x64.Build.0 = Release|x64
+		{75F7B4E7-5BBD-40C5-A909-CB03154A3E68}.Release|x86.ActiveCfg = Release|Win32
+		{75F7B4E7-5BBD-40C5-A909-CB03154A3E68}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4F19512C-D707-4E47-99CB-A3238DDE12D2}
+	EndGlobalSection
+EndGlobal
