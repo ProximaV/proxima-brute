@@ -7,7 +7,7 @@ In working with DPA of various decryption processes, it is often the case that o
 
 This project aims to brute-force keys for a certain cryptographic process using multiple threads. The tool reads configurations for key space, loads header and body files, and performs the brute-force operation. It also gives an estimate of the remaining time required to complete the search based on current progress.
 
-The code included here is for a specific use-case. Decrypting a header which contains the body key, the decrypting the body with that key. This framework can easily be extended for any other type of brute-forcing use-case as needed.
+The code included here is for a specific use-case. Decrypting a header which contains the body key, then decrypting the body with that key. This framework can easily be extended for any other type of brute-forcing use-case as needed.
 
 This framework is really for running multiple threads on a brute force task, and using hardware based AES to do so.
 
